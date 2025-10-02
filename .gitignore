@@ -13,9 +13,9 @@ htmlcov
 .lvimrc
 .DS_Store
 .envrc
-lightning_logs/
-outputs/
 
-data/
-egoallo_checkpoint_*
-egoallo_example_*
+dataset/
+body_models/
+runs/
+save/
+smplx_model/
